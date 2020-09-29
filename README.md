@@ -11,4 +11,4 @@ We decided to choose the GNU General Public License v3. It is a leniant license 
 
 Code of Conduct:
 
-We used the default code of conduct from Github. IT is basic and suits the needs of this repository.
+We used the default code of conduct from Github. It is basic and suits the needs of this repository.
